@@ -156,7 +156,7 @@ function onSubmit(e) {
     checkSession();
   })
   .fail(function (err) {
-
+    console.log(err);
     // Hide loading screen
     loadingCover.removeClass('show');
 
