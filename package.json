@@ -7,7 +7,7 @@
     "start": "DEBUG=index node index.js",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-   "engines": {
+  "engines": {
     "node": "16.16.0"
   },
   "author": "",
