@@ -188,7 +188,7 @@ function init() {
     ending_top: "10%", // Ending top style attribute
   });
 
-  checkSession();
+  //checkSession();
 }
 
 $(document).ready(init);
